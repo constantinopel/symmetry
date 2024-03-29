@@ -1,1 +1,3 @@
 # symmetry
+A hope for a functional code that can move chess pieces within the confines of the established chess rules against a human opponent, and act as an extremely elementary chess computer, which considers future positions and evaluates which move likely has the greatest potential for success based on at least 1-ply evaluation.
+Hopefully in the even later future said code will expand to such a degree that it is able to evaluate several ply into the future in certain simplistic positions. Perhaps a group of highly general algorithms can serve as a fairly difficult opponent. The future is exciting.
